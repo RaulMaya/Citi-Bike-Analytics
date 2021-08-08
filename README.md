@@ -101,3 +101,25 @@
 <br>
 
 * How variable is the utilization by bike ID?
+
+* Dashboards
+
+![Citi-Bikes](images/D1.png)
+
+<br>
+
+![Citi-Bikes](images/D2.png)
+
+<br>
+
+
+![Citi-Bikes](images/D3.png)
+
+<br>
+
+
+* Story
+
+![Citi-Bikes](images/Story.png)
+
+<br>
