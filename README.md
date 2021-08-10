@@ -1,4 +1,20 @@
-## <u>Citi-Bike-Analytics</u>
+## <center><u>Citi-Bike-Analytics</u></center>
+
+<br>
+
+![Citi-Bikes](images/citibike.jpg)
+
+<hr>
+
+### <u>Background</u>
+
+<br>
+
+Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
+
+Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
+
+However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so your first task on the job is to build a set of data reports to provide the answers.
 
 <hr>
 
@@ -6,21 +22,26 @@
 
 <br>
 
-* How many trips have been recorded total during the chosen period?
+1. <b><u>How many trips have been recorded total during the chosen period?</u></b>
 
-![Citi-Bikes](images/Q1.png)
+  Answer: The chosen period of time in this assignment was all the data of 2019 and 2020, in this time range, the number of registered trips were 741,749.
+
+  ![Citi-Bikes](images/Q1.png)
 
 <br>
 
 * By what percentage has total ridership grown?
 
-![Citi-Bikes](images/Q2.png)
+  Instead of an increase in the ridership usage, there was registered a decrease from 2019 to 2020. In 2019, there were registered 404,947 trips, and in 2020 the trips amount decrease to 336,802 trips, that means that from 2019 to 2020 the trip registered drop 16.83%.
+
+  ![Citi-Bikes](images/Q2.png)
 
 <br>
 
 * How has the proportion of short-term customers and annual subscribers changed?
 
-![Citi-Bikes](images/Q3.png)
+  There was a significant change in the number of trips as customer and subscriber in 2019 to 2020. In 2019, subscribers registered a total of 361,921 trips and customers registered 43,026, the gap of the trips that a subscriber made to the trips that a customer made, was of approximately 300,000 trips more for subscribers. Mean while, in 2020, subscribers registered a total of 281,trips and customers registered 43,026
+  ![Citi-Bikes](images/Q3.png)
 
 <br>
 
