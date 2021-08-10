@@ -1,4 +1,4 @@
-## <center><u>Citi-Bike-Analytics</u></center>
+gi git ## <center><u>Citi Bike Analytics</u></center>
 
 <br>
 
@@ -22,7 +22,8 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 <br>
 
-1. <b><u>How many trips have been recorded total during the chosen period?</u></b>
+
+* How many trips have been recorded total during the chosen period?
 
   Answer: The chosen period of time in this assignment was all the data of 2019 and 2020, in this time range, the number of registered trips were 741,749.
 
@@ -40,107 +41,117 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * How has the proportion of short-term customers and annual subscribers changed?
 
-  There was a significant change in the number of trips as customer and subscriber in 2019 to 2020. In 2019, subscribers registered a total of 361,921 trips and customers registered 43,026, the gap of the trips that a subscriber made to the trips that a customer made, was of approximately 300,000 trips more for subscribers. Mean while, in 2020, subscribers registered a total of 281,trips and customers registered 43,026
+  There was a significant change in the number of trips as customer and subscriber in 2019 to 2020. In 2019, subscribers registered a total of 361,921 trips and customers registered 43,026, the gap of the trips that a subscriber made to the trips that a customer made, was of approximately 300,000 trips more for subscribers. Mean while, in 2020, subscribers registered a total of 231,531 trips and customers registered 105,271, the gap between subscribers and customers close to approximately 170,000 trips.
+
   ![Citi-Bikes](images/Q3.png)
 
 <br>
 
 * What are the peak hours in which bikes are used during summer months?
 
-![Citi-Bikes](images/Q4.png)
+  As we can see in the graph, the peak hours in summer months in which more trips are registered, are from 7:00 pm - 8:00 pm.
+
+  ![Citi-Bikes](images/Q4.png)
 
 <br>
 
 * What are the peak hours in which bikes are used during winter months?
 
-![Citi-Bikes](images/Q5.png)
+  As we can see in the graph, the peak hours in winter months in which more trips are registered, are from 8:00 am - 9:00 am.
+
+  ![Citi-Bikes](images/Q5.png)
 
 <br>
 
 * Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
 
-![Citi-Bikes](images/Q6.png)
+  * Grove St Path
+  * Hamilton Park
+  * Sip Ave
+  * Newport Pkwy
+  * Harborside
+  * Newport Path
+  * Marin Light Rail
+  * Liberty Light Railgit
+  * Columbus Dr
+  * City Hall
+
+  ![Citi-Bikes](images/Q6.png)
 
 <br>
 
 * Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
 
-![Citi-Bikes](images/Q7.png)
+  ![Citi-Bikes](images/Q7.png)
 
 <br>
 
 * Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
 
-![Citi-Bikes](images/Q8.png)
+  ![Citi-Bikes](images/Q8.png)
 
 <br>
 
 * Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
 
-
-![Citi-Bikes](images/Q9.png)
+  ![Citi-Bikes](images/Q9.png)
 
 <br>
 
 * Today, what is the gender breakdown of active participants (Male v. Female)?
 
-![Citi-Bikes](images/Q10.png)
+  From the 741,749 trips made in 2019-2020, 176,937, were classified as females, that means that the group that identify as females are the 23.78 % of the total trips amount.
+
+  ![Citi-Bikes](images/Q10.png)
 
 <br>
 
 * How effective has gender outreach been in increasing female ridership over the timespan?
 
-![Citi-Bikes](images/Q11.png)
+  ![Citi-Bikes](images/Q11.png)
 
 <br>
 
 * How does the average trip duration change by age?
 
-![Citi-Bikes](images/Q12.png)
+  ![Citi-Bikes](images/Q12.png)
 
 <br>
 
 
 * What is the average distance in miles that a bike is ridden?
 
-![Citi-Bikes](images/Q13.png)
+  ![Citi-Bikes](images/Q13.png)
 
-<br>
-
-![Citi-Bikes](images/Q14.png)
+  ![Citi-Bikes](images/Q14.png)
 
 <br>
 
 * Which bikes (by ID) are most likely due for repair or inspection in the timespan?
 
-![Citi-Bikes](images/Q15.png)
+  ![Citi-Bikes](images/Q15.png)
+
+  ![Citi-Bikes](images/Q16.png)
 
 <br>
-
-![Citi-Bikes](images/Q16.png)
-
-<br>
-
-* How variable is the utilization by bike ID?
 
 * Dashboards
 
-![Citi-Bikes](images/D1.png)
+  ![Citi-Bikes](images/D1.png)
 
-<br>
+  ![Citi-Bikes](images/D2.png)
 
-![Citi-Bikes](images/D2.png)
-
-<br>
-
-
-![Citi-Bikes](images/D3.png)
+  ![Citi-Bikes](images/D3.png)
 
 <br>
 
 
-* Story
+### Story
 
-![Citi-Bikes](images/Story.png)
+  As we all know, it has been almost 2 years since the first patient with Covid-19 was registered in Wuhan, a virus that has affected our way of living and acting. The Covid has affected not only the health of the human being, but also the great world economies, and Citi Bikes is not left out of this.
+
+  Only from 2019 (Year without Covid) against 2020 (Year where Covid began in the American continent), the use of Citi Bikes decreased by 16.83%, in other words the annual use of 2019 which was from 404,947 to 336,802 in 2020 .
+
+  ![Citi-Bikes](images/Story.png)
 
 <br>
