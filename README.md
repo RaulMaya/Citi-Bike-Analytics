@@ -123,6 +123,8 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * How effective has gender outreach been in increasing female ridership over the timespan?
 
+  As indicated above, the use of bicycles decreased from 2019 to 2020, and the female gender was not the difference, in 2019 between September and October the highest number of registered use was registered with a total of 12,000 (approximately ) while in the same range in 2020 the total number dropped to 10,800 (approximately). However, it was detected that the months where women are more likely to travel are from June to October.
+
   ![Citi-Bikes](images/Q11.png)
 
 <br>
@@ -145,6 +147,8 @@ However, while the data has been regularly updated, the team has yet to implemen
     - July: 0.76 miles (average)
     - August, November: 0.63 miles (average)
     - September, October: 0.64 miles (average)
+
+    <br>
 
   As we can appreciate, there is a strange phenomena in July, because al the averages across the months are (0.615 +- 2) miles on average, but in July the average increase to 0.76 miles. Making a research we detect that the maximum distance in in July was of 5389.259 miles, so there must be and individual that try to break a record in July, or use a Citi Bike to ride across New York City.
 
@@ -187,4 +191,12 @@ However, while the data has been regularly updated, the team has yet to implemen
 
   ![Citi-Bikes](images/Story.png)
 
-<br>
+<hr>
+
+### Contact:
+
+* Name: Raul Maya Salazar
+* Phone: +52 833 159 7006
+* E-mail: raulmayas20@gmail.com
+* GitHub: https://github.com/RaulMaya
+* LinkedIn: https://www.linkedin.com/in/raul-maya/
