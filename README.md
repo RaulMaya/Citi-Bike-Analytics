@@ -1,4 +1,4 @@
-gi git ## <center><u>Citi Bike Analytics</u></center>
+# <center><u>Citi Bike Analytics</u></center>
 
 <br>
 
@@ -76,11 +76,26 @@ However, while the data has been regularly updated, the team has yet to implemen
   * Columbus Dr
   * City Hall
 
+  <br>
+
   ![Citi-Bikes](images/Q6.png)
 
 <br>
 
 * Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
+
+  * Grove St Path
+  * Hamilton Park
+  * Newport Pkwy
+  * Newport Path
+  * Harborside
+  * Sip Ave
+  * Marin Light Rail
+  * Liberty Light Railgit
+  * Columbus Dr
+  * City Hall
+
+  <br>
 
   ![Citi-Bikes](images/Q7.png)
 
@@ -121,6 +136,18 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * What is the average distance in miles that a bike is ridden?
 
+  In 2019 and 2020 the average distance that a bike ride, was of 0.629 miles. If we split the average in months we get that the average distance ridden by miles in months, behave like this:
+
+    - January: 0.59 miles (average)
+    - February, March: 0.60 miles (average)
+    - April, May: 0.61 miles (average)
+    - June, December: 0.62 miles (average)
+    - July: 0.76 miles (average)
+    - August, November: 0.63 miles (average)
+    - September, October: 0.64 miles (average)
+
+  As we can appreciate, there is a strange phenomena in July, because al the averages across the months are (0.615 +- 2) miles on average, but in July the average increase to 0.76 miles. Making a research we detect that the maximum distance in in July was of 5389.259 miles, so there must be and individual that try to break a record in July, or use a Citi Bike to ride across New York City.
+
   ![Citi-Bikes](images/Q13.png)
 
   ![Citi-Bikes](images/Q14.png)
@@ -135,11 +162,17 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 <br>
 
-* Dashboards
+### Dashboards
+
+  * Dashboard 1
 
   ![Citi-Bikes](images/D1.png)
 
+  * Dashboard 2
+
   ![Citi-Bikes](images/D2.png)
+
+  * Dashboard 3
 
   ![Citi-Bikes](images/D3.png)
 
